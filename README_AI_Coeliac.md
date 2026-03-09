@@ -3,9 +3,9 @@
 Exploring how AI can responsibly support people living with coeliac disease through trusted information and community-driven tools.
 
 ## Overview
-This open-source project explores how artificial intelligence can responsibly support people living with coeliac disease by improving access to trusted health information and reducing misinformation
+This open-source project explores how artificial intelligence can responsibly support people living with coeliac disease by improving access to trusted health information and reducing misinformation.
 
-AI tools are increasingly becoming a primary way people seek answers to health questions. This project investigates how trusted knowledge sources and carefully designed prompts can help ensure people receive safe, accurate and practical guidance.
+AI tools are increasingly becoming a primary way people access answers to health questions. This project investigates how trusted knowledge sources and carefully designed prompts can help ensure people receive safe, accurate and practical guidance.
 
 The goal is not to replace medical professionals, but to help people better understand coeliac disease and navigate gluten‑free living using reliable information.
 
@@ -48,8 +48,9 @@ These prompts aim to:
 ## Trusted Sources
 AI systems should prioritise information from credible organisations and medical research. Examples include:
 
-- Coeliac UK (UK charity supporting people with coeliac disease) - https://www.coeliac.org.uk
-- NHS guidance - https://www.nhs.uk/conditions/coeliac-disease/
+- Coeliac UK (UK charity supporting people with coeliac disease) – https://www.coeliac.org.uk
+- NHS guidance – https://www.nhs.uk/conditions/coeliac-disease/
+``` id="7dh6ik"
 - Peer-reviewed medical literature
 - Registered dietitian guidance
 
