@@ -5,7 +5,7 @@ Exploring how AI can responsibly support people living with coeliac disease thro
 ## Overview
 This open-source project explores how artificial intelligence can responsibly support people living with coeliac disease by improving access to trusted health information and reducing misinformation.
 
-AI tools are increasingly becoming a primary way people access answers to health questions. This project investigates how trusted knowledge sources and carefully designed prompts can help ensure people receive safe, accurate and practical guidance.
+AI tools are increasingly becoming a primary way people seek answers to health questions. This project investigates how trusted knowledge sources and carefully designed prompts can help ensure people receive safe, accurate and practical guidance.
 
 The goal is not to replace medical professionals, but to help people better understand coeliac disease and navigate gluten‑free living using reliable information.
 
