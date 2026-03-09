@@ -1,10 +1,19 @@
-About this project
-An open-source exploration of how AI can responsibly support people living with coeliac disease through trusted health information and safe guidance.
-
-Getting Started
-
 # AI for Coeliac Disease Support
 Exploring how AI can responsibly support people living with coeliac disease through trusted information and community-driven tools.
+
+## About This Project
+An open-source exploration of how AI can responsibly support people living with coeliac disease through trusted health information and safe guidance.
+
+## Getting Started
+This repository currently focuses on documentation and prompt design rather than a full software implementation.
+
+To explore the project:
+
+- Review the prompt examples in the `/prompts` directory
+- Explore trusted information sources listed in `/sources`
+- Read the project vision and roadmap for future development
+
+Future work may include prototype AI assistants, datasets of trusted guidance, and collaborations with health organisations.
 
 ## Overview
 This open-source project explores how artificial intelligence can responsibly support people living with coeliac disease by improving access to trusted health information and reducing misinformation.
