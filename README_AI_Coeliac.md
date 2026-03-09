@@ -50,7 +50,6 @@ AI systems should prioritise information from credible organisations and medical
 
 - Coeliac UK (UK charity supporting people with coeliac disease) – https://www.coeliac.org.uk
 - NHS guidance – https://www.nhs.uk/conditions/coeliac-disease/
-``` id="7dh6ik"
 - Peer-reviewed medical literature
 - Registered dietitian guidance
 
