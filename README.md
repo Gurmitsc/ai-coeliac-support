@@ -137,3 +137,6 @@ Issues                 # Open ideas and collaboration opportunities
 
 ## License
 This project is released under the MIT License.
+
+## Getting Involved
+If you work in healthcare, AI research, nutrition, or the coeliac community and would like to contribute ideas or collaborate, please open an issue or discussion.
