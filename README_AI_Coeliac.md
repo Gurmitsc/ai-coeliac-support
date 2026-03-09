@@ -72,3 +72,15 @@ Contributions are welcome. Potential areas for collaboration include:
 As AI becomes a major channel for accessing information, trusted health organisations and communities must play a role in shaping how that knowledge is shared.
 
 This project is an early exploration of how AI can responsibly support people living with coeliac disease and the organisations that serve them.
+
+## Responsible AI Use
+This project explores how AI can responsibly support people living with coeliac disease. AI tools should enhance access to trusted information but must never replace professional medical advice.
+
+When using AI systems for coeliac-related information:
+
+- AI should not replace qualified medical professionals or clinical diagnosis.
+- Responses should prioritise trusted sources such as Coeliac UK and NHS guidance.
+- AI systems should clearly state when users should consult a doctor or healthcare professional.
+- Information should be presented in a way that reduces misinformation and encourages safe decision-making.
+
+The goal of this project is to explore how AI can improve access to reliable information while maintaining safety, transparency, and trust.
