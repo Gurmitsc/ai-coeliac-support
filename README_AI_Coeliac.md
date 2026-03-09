@@ -1,8 +1,9 @@
-
 # AI for Coeliac Disease Support
 
+Exploring how AI can responsibly support people living with coeliac disease through trusted information and community-driven tools.
+
 ## Overview
-This open-source project explores how artificial intelligence can responsibly support people living with coeliac disease by improving access to trusted information and reducing misinformation.
+This open-source project explores how artificial intelligence can responsibly support people living with coeliac disease by improving access to trusted health information and reducing misinformation
 
 AI tools are increasingly becoming a primary way people seek answers to health questions. This project investigates how trusted knowledge sources and carefully designed prompts can help ensure people receive safe, accurate and practical guidance.
 
@@ -34,7 +35,7 @@ Examples of how AI could support the coeliac community include:
 - Help interpreting gluten-free food labels
 - Advice on eating out safely and avoiding cross-contamination
 - Travel guidance for gluten-free living
-- Summarising research or trusted health guidance
+- Summarising trusted research and guidance from credible health organisations
 
 ## Prompt Library
 The `/prompts` directory contains example prompts designed to help AI systems respond responsibly when assisting people with questions about coeliac disease.
@@ -47,7 +48,7 @@ These prompts aim to:
 ## Trusted Sources
 AI systems should prioritise information from credible organisations and medical research. Examples include:
 
-- Coeliac UK
+- Coeliac UK (UK charity supporting people with coeliac disease)
 - NHS guidance
 - Peer-reviewed medical literature
 - Registered dietitian guidance
@@ -84,3 +85,42 @@ When using AI systems for coeliac-related information:
 - Information should be presented in a way that reduces misinformation and encourages safe decision-making.
 
 The goal of this project is to explore how AI can improve access to reliable information while maintaining safety, transparency, and trust.
+
+## Disclaimer
+This project explores responsible uses of artificial intelligence in the context of coeliac disease and gluten-free living.
+
+The information and examples in this repository are provided for research and educational purposes only and should not be considered medical advice.
+
+AI systems should never replace professional medical diagnosis or treatment. Individuals should always consult a qualified healthcare professional for medical guidance.
+
+For more details see the `DISCLAIMER.md` file.
+
+## Roadmap
+Potential next steps for this project include:
+
+- Expanding the prompt library for common coeliac-related questions
+- Exploring prototype AI assistants for newly diagnosed patients
+- Analysing misinformation trends about gluten and coeliac disease
+- Building datasets of trusted gluten-free guidance
+- Collaborating with health organisations and patient communities
+
+## Project Structure
+```
+ai-coeliac-support
+│
+README.md              # Project overview and goals
+VISION.md              # Long-term vision for the project
+CONTRIBUTING.md        # Guidelines for contributors
+DISCLAIMER.md          # Medical and AI safety disclaimer
+│
+prompts/               # Prompt experiments for AI systems
+│   coeliac-ai-prompts.md
+│
+sources/               # Trusted information sources
+│   trusted-sources.md
+│
+Issues                 # Open ideas and collaboration opportunities
+```
+
+## License
+This project is released under the MIT License.
