@@ -48,8 +48,8 @@ These prompts aim to:
 ## Trusted Sources
 AI systems should prioritise information from credible organisations and medical research. Examples include:
 
-- Coeliac UK (UK charity supporting people with coeliac disease)
-- NHS guidance
+- Coeliac UK (UK charity supporting people with coeliac disease) - https://www.coeliac.org.uk
+- NHS guidance - https://www.nhs.uk/conditions/coeliac-disease/
 - Peer-reviewed medical literature
 - Registered dietitian guidance
 
